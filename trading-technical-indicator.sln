@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.28307.539
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "trading-technical-indicator", "trading-technical-indicator\trading-technical-indicator.csproj", "{B9061CB5-1EDA-4087-B40D-48465C8E7A5F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TechnicalIndicator", "TechnicalIndicator\TechnicalIndicator.csproj", "{44A44C18-8C03-4195-AED4-7FD175E2D8CD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{B9061CB5-1EDA-4087-B40D-48465C8E7A5F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B9061CB5-1EDA-4087-B40D-48465C8E7A5F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B9061CB5-1EDA-4087-B40D-48465C8E7A5F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{44A44C18-8C03-4195-AED4-7FD175E2D8CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{44A44C18-8C03-4195-AED4-7FD175E2D8CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{44A44C18-8C03-4195-AED4-7FD175E2D8CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{44A44C18-8C03-4195-AED4-7FD175E2D8CD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
